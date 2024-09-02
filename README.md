@@ -18,6 +18,3 @@
 * **POST**: Utilizado para adicionar novos itens à lista de compras.
 * **PUT**: Utilizado para atualizar informações de itens existentes na lista de compras.
 * **DELETE**: Utilizado para remover itens da lista de compras.
-
-## Link:
-https://joao-carmassi.github.io/Crud-js/
