@@ -1,20 +1,22 @@
-![image](https://github.com/user-attachments/assets/20c13ff6-4094-47bb-a319-50552f0a3ef1)
+# Lista de Compras 🛒
 
-<hr>
+![Preview](https://github.com/user-attachments/assets/20c13ff6-4094-47bb-a319-50552f0a3ef1)
 
-<p align="center">Página de uma lista de compras.</p>
+<p align="center">Uma página prática para gerenciar sua lista de compras de forma simples e interativa.</p>
 
-## Tecnologias utilizadas durante o curso
-* Javascript
-* Crud
+## 🛠 Tecnologias utilizadas
 
-## Tecnologias utilizadas no projeto
+### Durante o curso
+* JavaScript
+* CRUD
+
+### No projeto final
 * HTML
 * CSS
-* Javascript
+* JavaScript
 
-## Requisições HTTP:
-* **GET**: Utilizado para recuperar dados da lista de compras.
-* **POST**: Utilizado para adicionar novos itens à lista de compras.
-* **PUT**: Utilizado para atualizar informações de itens existentes na lista de compras.
-* **DELETE**: Utilizado para remover itens da lista de compras.
+## 🌐 Requisições HTTP
+* **GET** – Recupera os itens da lista de compras.
+* **POST** – Adiciona novos itens à lista.
+* **PUT** – Atualiza informações de itens existentes.
+* **DELETE** – Remove itens da lista.
